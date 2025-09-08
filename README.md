@@ -42,7 +42,7 @@ FastANPR/
 - │── models/            # YOLOv8 and PaddleOCR models (optional)
 - │── results/           # Detected plates and outputs
 
-- git clone https://github.com/Rasittekin18/FastANPR.git
+- git clone [https://github.com/Rasittekin18/FastANPR.git](https://github.com/Rasittekin18/FastANPR--Real-Time-License-Plate-Recognition.git)
 - cd FastANPR
 - pip install -r requirements.txt
 
