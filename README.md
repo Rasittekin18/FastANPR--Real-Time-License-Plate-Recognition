@@ -15,11 +15,11 @@
 
 ⚙️ System Modules
 - The system provides three modes of operation:
-| Module     | Description                                    |
-| ---------- | ---------------------------------------------- |
-| `canli.py` | Real-time recognition from live camera streams |
-| `test.py`  | Batch recognition on single images             |
-| `video.py` | Frame-by-frame recognition from video files    |
+- | Module     | Description                                    |
+- | ---------- | ---------------------------------------------- |
+- | `canli.py` | Real-time recognition from live camera streams |
+- | `test.py`  | Batch recognition on single images             |
+- | `video.py` | Frame-by-frame recognition from video files    |
 
 All modules are implemented in Python with OpenCV for image processing.
 
@@ -34,13 +34,13 @@ All modules are implemented in Python with OpenCV for image processing.
 
 📂 Project Structure
 FastANPR/
-│── canli.py           # Live camera recognition module
-│── test.py            # Single image batch recognition
-│── video.py           # Video file recognition
-│── README.md          # Project description
-│── requirements.txt   # Dependencies
-│── models/            # YOLOv8 and PaddleOCR models (optional)
-│── results/           # Detected plates and outputs
+- │── canli.py           # Live camera recognition module
+- │── test.py            # Single image batch recognition
+- │── video.py           # Video file recognition
+- │── README.md          # Project description
+- │── requirements.txt   # Dependencies
+- │── models/            # YOLOv8 and PaddleOCR models (optional)
+- │── results/           # Detected plates and outputs
 
 - git clone https://github.com/Rasittekin18/FastANPR.git
 - cd FastANPR
