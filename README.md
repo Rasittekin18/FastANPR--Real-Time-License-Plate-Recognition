@@ -58,7 +58,7 @@ python video.py --input path/to/video.mp4
 - Supports real-time IP camera feeds using canli.py.
 
 📸 Screenshot Example 
-
+![FastANPR--Real-Time-License-Plate-Recognition in Action](Screenshot_1.jpg)
 
 
 
